@@ -3,7 +3,7 @@
 This is the template provided for `tooling assignment vagrant`. Provide the required screenshots to show that tooling has been properly installed inside of your Ubuntu Jammy 22.04 Vagrant Box and AlmaLinux 9 Box and submit to Canvas.
 
 ## WebServer Install
-
+ 
 Screenshot from the host OS of http://192.168.56.10 or comparable URL
 
 ## Output of vagrant box list command
