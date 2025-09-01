@@ -5,10 +5,13 @@ This is the template provided for `tooling assignment vagrant`. Provide the requ
 ## WebServer Install
 
 Screenshot from the host OS of http://192.168.56.10 or comparable URL
+![screenshoot](webpage.png)
 
 ## Output of vagrant box list command
 
 After completing this tutorial take a screenshot of the output of the command ```vagrant box list```
+![screenshot](list.png)
+
 
 ## Deliverable
 
